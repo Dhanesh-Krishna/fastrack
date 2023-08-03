@@ -1,0 +1,29 @@
+
+        .title {
+            text-align: center;
+            background-color: rgb(15, 15, 15);
+            color: rgb(254, 253, 253);
+            margin: 25px 25px 25px 25px;
+            padding: 75px;
+            border: 30px inset;
+            font-size: 75px;
+        }
+
+        .para {
+            text-align: center;
+            
+            color: gray;
+        }
+
+        .anger {
+            text-align: right;
+        }
+
+        .anger a {
+            text-decoration: none;
+        }
+        .head{color:blue ; text-align: center;}
+        .para2{color: green;}
+
+     
+    
